@@ -1,5 +1,4 @@
 # No external dependencies required for basic functionality
-json
 datetime
 google-auth-oauthlib
 google-auth-httplib2
