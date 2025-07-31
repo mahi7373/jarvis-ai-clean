@@ -1,5 +1,4 @@
 # No external dependencies required for basic functionality
-datetime
 moviepy
 gtts
 Pillow
