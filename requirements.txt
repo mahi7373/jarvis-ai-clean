@@ -1,0 +1,11 @@
+# No external dependencies required for basic functionality
+json
+datetime
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+schedule
+moviepy
+gtts
+mutagen
+pillow
