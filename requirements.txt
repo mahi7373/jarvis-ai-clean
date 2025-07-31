@@ -1,10 +1,11 @@
 # No external dependencies required for basic functionality
 datetime
+moviepy
+gtts
+Pillow
+mutagen
+google-auth
 google-auth-oauthlib
 google-auth-httplib2
 google-api-python-client
-schedule
-moviepy
-gtts
-mutagen
-pillow
+python-dotenv
